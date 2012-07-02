@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/uncxmlmenu.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd">
+
+<ead id="shc">
+
+
+
+ <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+  langencoding="iso639-2" repositoryencoding="iso15511">
+
+  <eadid countrycode="us" mainagencycode="ncu"
+   publicid="-// University of North Carolina at Chapel Hill::Southern Historical Collection//TEXT (US::NCU::OFC$::Jackie Dean Papers, (6000))//EN"
+   >1234</eadid>
+  <filedesc>
+   <titlestmt>
+    <titleproper encodinganalog="title">Jackie Dean Papers, <date normal="1980/2008"
+      type="inclusive">1975-2009</date> 1234 </titleproper>
+    <author encodinganalog="creator">Processed by: Joyce Chapman; machine-readable finding aid
+     created by: Joyce Chapman</author>
+   </titlestmt>
+
+   <publicationstmt>
+    <p>Southern Historical Collection, University of North Carolina at Chapel Hill, Chapel Hill,
+     N.C.</p>
+   </publicationstmt>
+
+  </filedesc>
+
+  <profiledesc>
+   <creation>Machine-readable finding aid derived from NoteTab Pro Software.<lb/>
+    <date>Date of source: April 2009</date><lb/> Processed by Joyce Chapman, April 2009; finding aid
+    encoded by Joyce Chapman, Southern Historical Collection, University of North Carolina at Chapel
+    Hill, <date>April 2009</date>
+   </creation>
+   <langusage>Finding aid written in <language langcode="eng">English</language>
+   </langusage>
+  </profiledesc>
+
+  <!-- OPTIONAL TAG: use only if revising EAD-encoded finding aid.
+<revisiondesc>
+<change>
+<date>Date of change</date>
+<item>Updated because of ?</item>
+</change>
+</revisiondesc>
+-->
+
+ </eadheader>
+
+
+ <frontmatter>
+  <titlepage>
+   <titleproper> Jackie Dean Papers, <date normal="1980/2008" type="inclusive">1975-2009</date>
+   </titleproper>
+   <num>6000</num>
+   <publisher> Southern Historical Collection, University Library of the University of North
+    Carolina at Chapel Hill </publisher>
+
+  </titlepage>
+
+ </frontmatter>
+
+
+ <archdesc level="collection" relatedencoding="MARC">
+  <did>
+
+   <head>Collection Overview</head>
+
+   <repository label="Repository">
+    <corpname encodinganalog="710">University of North Carolina at Chapel Hill. Library. Southern
+     Historical Collection.</corpname>
+   </repository>
+
+   <origination label="Creator">
+    <persname encodinganalog="100">Dean, Jackie, 1975-</persname>
+   </origination>
+
+   <unittitle label="Title" encodinganalog="245">Jackie Dean Papers, <unitdate normal="1980/2008"
+     type="inclusive">1975-2009</unitdate></unittitle>
+   <unitid countrycode="us" repositorycode="ncu" label="Call Number" encodinganalog="099">1234</unitid>
+
+   <langmaterial label="Language of Materials" encodinganalog="546">Materials in <language
+     langcode="eng">English</language>
+   </langmaterial>
+
+   <physdesc label="Extent">
+    <extent unit="items" encodinganalog="300">300</extent>
+    <extent unit="linear feet" encodinganalog="300">1.5</extent>
+   </physdesc>
+
+   <abstract label="Abstract" encodinganalog="545">Jackie Dean was born in Canada in 1975.</abstract>
+   <abstract encodinganalog="520">The collection includes stuff by and about Jackie Dean. Justo sit
+    dictum, in sapien ac molestie, gravida at tortor. Vehicula sagittis arcu ut lorem, nisl pede
+    suspendisse aliquam pede vitae. Pretium enim ante, aliquet arcu arcu adipiscing sunt vel neque,
+    at ante wisi. Euismod quis nullam amet tortor, morbi nibh nostra curabitur sapien vitae
+    venenatis, donec lectus, tellus justo. Mauris id id, class arcu in etiam laoreet, tincidunt at
+    sit, lectus vitae a auctor metus aliquam suscipit, aliquam vel malesuada integer ligula in. Duis
+    non sagittis maecenas, vestibulum eget vitae corrupti.</abstract>
+
+
+  </did>
+  <descgrp type="admininfo">
+   <head>Administrative Information</head>
+
+
+   <accessrestrict>
+    <head>Restrictions to Access</head>
+    <p>No restrictions. Open for research.</p>
+   </accessrestrict>
+
+   <userestrict encodinganalog="506">
+    <head>Restrictions to Use</head>
+    <p>No usage restrictions.</p>
+   </userestrict>
+
+   <processinfo>
+    <head>Processing Information</head>
+    <p>Processed by: Joyce Chapman, April 2009</p>
+    <p>Encoded by: Joyce Chapman, April 2009</p>
+   </processinfo>
+
+   <prefercite encodinganalog="524">
+    <head>Preferred Citation</head>
+    <p>[Identification of item], in the Jackie Dean Papers #6000, Southern Historical Collection,
+     The Wilson Library, University of North Carolina at Chapel Hill.</p>
+   </prefercite>
+
+   <userestrict>
+    <head>Copyright Notice</head>
+    <p>Copyright is retained by the authors of items in these papers, or their descendants, as
+     stipulated by United States copyright law.</p>
+   </userestrict>
+  </descgrp>
+
+  <bioghist>
+   <head>Biographical Note</head>
+   <p>Jackie Dean was born in Canada in 1975. Lorem ipsum dolor sit amet, elit ipsum ac etiam
+    dictumst, mollis vulputate, risus metus, faucibus ut orci. In purus, non at vel viverra egestas.
+    Platea vivamus pellentesque dignissim turpis vulputate in, et nonummy dignissim ac, lorem
+    gravida elit justo fusce, sem commodo suscipit nec dui ipsum. Sit risus massa purus et, aenean
+    porta integer tincidunt sit ligula, sapien nam vitae eleifend, dolor et ut mauris risus aliquet,
+    wisi facilisis conubia. Dignissim ipsum, nunc vivamus suspendisse velit erat iaculis, turpis
+    maecenas lectus habitant penatibus lectus amet. Magna non velit, facilisi dolor mauris nec,
+    lectus proin ac porta. Proin parturient ipsum, ipsum lorem non imperdiet. Varius et turpis
+    pretium neque. Amet lobortis ornare pede amet molestie at, felis tincidunt at nullam donec sed,
+    cursus id nisl volutpat dictumst. Lectus quam enim donec laoreet, aliquam ornare, magnis quis,
+    conubia et vel quo, sociosqu vivamus lectus. Cursus sed vestibulum in nunc fusce, ipsum neque
+    donec leo lacus placerat ipsum, orci dictum, in ornare ut mauris a, cursus sed duis.</p>
+  </bioghist>
+
+  <scopecontent>
+   <head>Collection Overview</head>
+   <p>Includes stuff by and about Jackie Dean.</p>
+   <p>Enim risus magna molestie vehicula nascetur turpis, ipsum vitae lectus aliquam egestas in,
+    ornare sit nam nec nulla nam praesent. Orci integer elementum nisl fermentum, modi per, ipsum
+    egestas, in odio sapien mattis, aenean eleifend. Dapibus lobortis. Ut ullamcorper sed nec lorem
+    etiam nec, mi vitae, est porttitor, odio sed turpis. Wisi ante tempor, quis eros, nec sit, ac
+    massa et accumsan in, integer potenti porta nisi ac. Tempore ac molestie nec viverra delectus,
+    pretium eget, sodales turpis. At sit ultrices lectus, ut sed blandit eros, eget suscipit sem.
+    Proin sed etiam felis mauris ipsum, imperdiet rem ornare cras, tortor rutrum ipsum. Vel amet
+    cras laoreet vestibulum nonummy libero, luctus imperdiet aliquam lectus nec dolor, cras felis,
+    ultrices turpis turpis venenatis justo elit, eu augue pellentesque nunc penatibus.</p>
+
+   <arrangement encodinganalog="351">
+    <head>Arrangement of Collection</head>
+    <list type="simple">
+     <item>1. Series One</item>
+     <item>1.1. Subseries One point One</item>
+     <item>1.2. Subseries One point Two</item>
+     <item>2. Series Two</item>
+    </list>
+   </arrangement>
+
+  </scopecontent>
+
+  <dsc type="combined">
+   <head>Container List</head>
+
+   <c01 level="series">
+    <did>
+     <unittitle>1. Series One, <unitdate normal="1975/1990" type="inclusive">1975-1990</unitdate>.</unittitle>
+     <physdesc>
+      <extent>About 200 items.</extent>
+     </physdesc>
+    </did>
+    <arrangement>
+     <p>Arrangement: chronological.</p>
+    </arrangement>
+    <c02 level="subseries">
+     <did>
+      <unittitle>1.1 One point One, <unitdate normal="1975/1985" type="inclusive"
+       >1975-1985</unitdate>.</unittitle>
+     </did>
+     <c03>
+      <did>
+       <container type="image">P-6000/1</container>
+       <unittitle>Image AAA</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <container type="image">P-6000/2</container>
+       <unittitle>Image BBB</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <container type="image">P-6000/3</container>
+       <unittitle>Image CCC</unittitle>
+      </did>
+     </c03>
+    </c02>
+
+    <c02 level="subseries">
+     <did>
+      <unittitle>1.2 One point Two, <unitdate normal="1986/1991" type="inclusive"
+       >1986-1991</unitdate>.</unittitle>
+     </did>
+     <c03>
+      <did>
+       <container type="image">P-6000/4</container>
+       <unittitle>Image AAA</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <container type="image">P-6000/5</container>
+       <unittitle>Image BBB</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <container type="image">P-6000/6</container>
+       <unittitle>Image CCC</unittitle>
+      </did>
+     </c03>
+    </c02>
+
+   </c01>
+
+   <c01 level="series">
+    <did>
+     <unittitle>2. Series Two, <unitdate normal="1991/2009" type="inclusive">1991-2009</unitdate>.</unittitle>
+     <physdesc>
+      <extent>About 50 items.</extent>
+     </physdesc>
+    </did>
+    <arrangement>
+     <p>Arrangement: chronological.</p>
+    </arrangement>
+    <c02>
+     <did>
+      <container type="folder">1</container>
+      <unittitle>AAA</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="folder">2</container>
+      <unittitle>BBB</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="folder">3</container>
+      <unittitle>CCC</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="folder">3</container>
+      <unittitle>DDD</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="folder">3</container>
+      <unittitle>EEE</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="folder">4</container>
+      <unittitle>FFF</unittitle>
+     </did>
+    </c02>
+   </c01>
+  </dsc>
+
+
+ </archdesc>
+</ead>
