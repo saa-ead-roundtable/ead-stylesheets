@@ -1,0 +1,48 @@
+/*Written by Joyce Chapman, 2009
+Contact: joyce_chapman@ncsu.edu
+    
+This stylesheet provides example css for controlling
+table display in output from threecolumn_dsc.xsl.
+Example value are encoded in some places.
+*/
+
+/*x classes are file-level rows*/
+#dsc.section table td.x6 {}
+#dsc.section table td.x7 td {}
+#dsc.section table td.x8 {padding-left: 20px;}
+#dsc.section table td.x9 {padding-left: 40px;}
+#dsc.section table td.x10 {padding-left: 60px;}
+#dsc.section table td.x11 {padding-left: 80px;}
+#dsc.section table td.x12 {padding-left: 100px;}
+#dsc.section table td.x13 {padding-left: 120px;}
+
+/*t classes are series and subseries-level header rows
+The t-class for a given component is one number higher than the componant's x class*/
+.t5 td {}
+.t6 td {}
+.t7 td {padding-left: 20px; padding-top: 10px;}
+.t8 td {padding-left: 40px; padding-top: 10px;}
+.t9 td {padding-left: 60px; padding-top: 10px;}
+.t10 td {padding-left: 80px; padding-top: 10px;}
+.t11 td {padding-left: 100px; padding-top: 10px;}
+.t12 td {padding-left: 120px; padding-top: 10px;}
+
+
+/*If you need to do something with the cells holding container types and values*/
+.containertype, .container{
+}
+
+/*these control the file-level scopecontent (and other similar paragraphs)*/
+tr.x6 p.scopelevel {padding-left: 125px;}
+tr.x7 p.scopelevel {padding-left: 135px;}
+tr.x8 p.scopelevel {padding-left: 145px;}
+tr.x9 p.scopelevel {padding-left: 155px;}
+tr.x10 p.scopelevel {padding-left: 165px;}
+
+/*these control the series/subseries-level scopecontent (and other similar paragraphs)*/
+tr.series6 p.scopelevel {}
+tr.series7 p.scopelevel {}
+tr.series8 p.scopelevel {}
+tr.series9 p.scopelevel {}
+tr.series10 p.scopelevel {}
+

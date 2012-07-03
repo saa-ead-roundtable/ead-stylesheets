@@ -1,0 +1,34 @@
+P {font-family:Times New Roman; font-size:12pt}
+
+P.breakhere {page-break-before:always; font-family:Times New Roman; font-size:12pt}
+
+P.toc-para1 {font-family:Times New Roman; margin-top:-10; margin-left:+25; font-size:12pt}
+P.toc-para2 {font-family:Times New Roman; margin-top:-10; margin-left:+50; font-size:12pt}
+
+P.fa-info {font-family:Times New Roman; font-size:10pt}
+
+P.inv-1 {font-family:Times New Roman; margin-left:25pt; font-size:12pt}
+P.inv-2 {font-family:Times New Roman; margin-left:50pt; font-size:12pt}
+P.inv-3 {font-family:Times New Roman; margin-left:75pt; font-size:12pt}
+P.inv-4 {font-family:Times New Roman; margin-left:100pt; font-size:12pt}
+P.inv-5 {font-family:Times New Roman; margin-left:125pt; font-size:12pt}
+P.inv-6 {font-family:Times New Roman; margin-left:150pt; font-size:12pt}
+P.inv-7 {font-family:Times New Roman; margin-left:175pt; font-size:12pt}
+P.inv-8 {font-family:Times New Roman; margin-left:200pt; font-size:12pt}
+
+P.subhead-1 {margin-left:25pt; font-weight:bold; font-size:12pt; font-family:Times New Roman}
+P.subhead-2 {margin-left:50pt; font-size:12pt; font-family:Times New Roman}
+
+h1 {font-family:Times New Roman}
+h2 {font-family:Times New Roman}
+h3 {font-family:Times New Roman}
+
+table.overview {font-family:Times New Roman; vertical-align:top; font-size:12pt}
+table.c01-list {font-family:Times New Roman; vertical-align:top; width:100%; border-width: 0; border-style: solid; font-family:Times New Roman}
+table.revhist {font-family:Times New Roman; vertical-align:top; font-size:10pt; width:40%}
+
+td {vertical-align:top}
+td.revdate {width:38%; text-align:right}
+td.container {font-family:Arial; font-size:10pt; font-weight:bold}
+td.c01-head {font-size:14pt; font-weight:bold}
+td.c02-head {font-size:12pt; font-weight:bold}

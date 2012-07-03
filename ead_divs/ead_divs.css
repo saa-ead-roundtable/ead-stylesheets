@@ -1,0 +1,11 @@
+BODY
+{
+	font-family: Verdana;
+	font-size: 12px;
+	background-color : #FFFFF0;
+	margin: 10px 50px
+	word-spacing: .75px;
+	letter-spacing: .75px;
+}
+
+    p { margin-left: 30pt; }
