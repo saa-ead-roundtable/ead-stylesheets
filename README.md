@@ -1,7 +1,7 @@
 User Contributed Stylesheets for Encoded Archival Description
 =============================================================
 
-This repository is aimed at establishing and maintaining a shared space of stylesheets created by our community. Your stylesheets can be complete, proof-of-concept, started-but-not-quite-finished, under development, etc. This resource is maintained by the [EAD Roundtable](www2.archivists.org/groups/encoded-archival-description-ead-roundtable) of the Society of the American Archivists.
+This repository is aimed at establishing and maintaining a shared space of stylesheets created by our community. Your stylesheets can be complete, proof-of-concept, started-but-not-quite-finished, under development, etc. This resource is maintained by the [EAD Roundtable](http://www2.archivists.org/groups/encoded-archival-description-ead-roundtable) of the Society of the American Archivists.
 
 List of current stylesheets
 ---------------------------
