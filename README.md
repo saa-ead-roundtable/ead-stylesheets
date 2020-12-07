@@ -1,7 +1,7 @@
 User Contributed Stylesheets for Encoded Archival Description (2002)
 ====================================================================
 
-This repository is aimed at establishing and maintaining a shared space of stylesheets created by the community of EAD implementers. Your stylesheets can be complete, proof-of-concept, started-but-not-quite-finished, under development, etc. This resource is maintained by the [EAD Roundtable](http://www2.archivists.org/groups/encoded-archival-description-ead-roundtable) of the Society of the American Archivists.
+This repository is aimed at establishing and maintaining a shared space of stylesheets created by the community of EAD implementers. Your stylesheets can be complete, proof-of-concept, started-but-not-quite-finished, under development, etc. This resource is maintained by the [EAS Section](https://www2.archivists.org/groups/encoded-archival-standards-section) of the Society of the American Archivists.
 
 This repository covers EAD 2002 stylesheets. To avoid confusion, we have created a [repository for EAD3 stylesheets](https://github.com/saa-ead-roundtable/ead3-stylesheets) and encourage contributions.
 
@@ -24,9 +24,9 @@ To submit your stylesheets, do one of the following:
 
 * Fork this repository on Github, add your stylesheets, and submit a pull request.
 * Create a new issue with the "submission" label.
-* Contact a [member of the EAD Roundtable leadership](http://saa.archivists.org/4DCGI/committees/Roles.html?Action=Show_Comm_Roles&CommCode=SAA**CTBL-EAD&Name=Officers&Status=Active)
+* Contact a [member of the EAS Section leadership] at eas.section.saa@gmail.com
 
-The EAD Roundtable maintains this resource as for the community basis and cannot provide support for any included stylesheets. By submitting a stylesheet or changes to a stylesheet, you are confirming that you have the right or were granted permission to do so.
+The EAS Section maintains this resource as for the community basis and cannot provide support for any included stylesheets. By submitting a stylesheet or changes to a stylesheet, you are confirming that you have the right or were granted permission to do so.
 
 Support
 -------
